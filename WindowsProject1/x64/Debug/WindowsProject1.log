@@ -1,0 +1,7 @@
+﻿  application.cpp
+c:\users\administrator\documents\chat\chat\windowsproject1\application.cpp(82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  asn1.cpp
+c:\users\administrator\documents\chat\chat\windowsproject1\asn1.cpp(80): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  physical.cpp
+  Generating Code...
+  WindowsProject1.vcxproj -> C:\Users\Administrator\Documents\chat\CHAT\x64\Debug\asn1.exe
